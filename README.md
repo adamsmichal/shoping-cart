@@ -1,7 +1,7 @@
 ## Todo
 
 - Install joi and add validation
-- Finish Cart busines logic
+- Finish Cart business logic
 - Add S3 clinet, save photo and store photo link in DB
 - Install jest and add tests
 - Add two middlewares:
